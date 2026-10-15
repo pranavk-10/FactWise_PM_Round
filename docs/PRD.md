@@ -1,10 +1,10 @@
-# Product Requirements Document — QuarantineOS
+# Product Requirements Document — Umbrella Corporation Facility Operations
 
 **Version:** 0.1 · **Status:** MVP proposal · **Owner:** Product + Clinical Operations
 
 ## 1. Summary
 
-QuarantineOS is an internal web application for a 74-bed quarantine/treatment facility. It coordinates the daily patient temperature check, same-day doctor visit, discharge workflow, and aggregate outcome reporting. Its primary purpose is operational reliability: making outstanding tasks visible, preventing avoidable duplicate work, and shortening administrative discharge delays.
+The Umbrella Corporation Facility Operations System is an internal web application for a 74-bed containment & quarantine facility. It coordinates the daily patient biometric checks, same-day virology visits, decontamination clearance workflow, and aggregate outcome reporting. Its primary purpose is operational reliability: making outstanding tasks visible, preventing avoidable duplicate work, and shortening administrative discharge delays.
 
 ## 2. Problem statement
 

@@ -1,6 +1,6 @@
-# QuarantineOS — Facility Operations MVP
+# Umbrella Corporation — Hive Facility Operations MVP
 
-A responsive, interactive frontend prototype for a 74-bed quarantine/treatment facility. It focuses on daily temperature tracking, doctor-round coordination, discharge review, and transparent quality metrics.
+A responsive, interactive frontend prototype for the Umbrella Corporation's 74-bed containment & quarantine facility. It focuses on daily biometric tracking, virology-round coordination, decontamination clearance review, and transparent quality metrics.
 
 > **Safety notice:** This prototype uses fictional sample records and local browser state. It is not a production clinical system, does not give treatment recommendations, and must not be used to make real patient-care or discharge decisions. Clinical leadership must validate all rules before deployment.
 
